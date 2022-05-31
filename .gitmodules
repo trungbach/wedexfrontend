@@ -1,4 +1,0 @@
-[submodule "src/wedex-uikit"]
-	path = src/wedex-uikit
-	# url = git@github.com:dongpv91/wedex-uikit.git
-	url = git@github.com:trungbach/wedex-uikit.git
